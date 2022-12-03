@@ -1,4 +1,6 @@
 .test{
     text-align: center;
-    color: rgb(51, 243, 13);
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
 }
